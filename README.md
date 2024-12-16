@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DarshitaDwivedii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # Leetcode Stats:
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=DarshitaDwivedi&theme=dark)](https://leetcode.com/DarshitaDwivedi/)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=DarshitaDwivedi&theme=dark&show heatmap=true)](https://leetcode.com/DarshitaDwivedi/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
