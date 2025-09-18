@@ -1,8 +1,12 @@
 # 💫 About Me
 🔭 **Currently Working On:** Developing end-to-end machine learning projects, including data preprocessing, NLP, computer vision, real-time AI applications, and predictive modeling.  
+
 🤝 **Open to Collaborate On:** Data-driven ML projects, AI-powered applications, and exploratory data analysis tasks.  
+
 📚 **Currently Learning:** Advanced ML algorithms, deep learning architectures, NLP pipelines, and scalable deployment strategies.  
+
 💡 **Ask Me About:** Python, ML workflows, NLP, real-time AI systems, or my hands-on projects like sentiment analysis, fake review detection, and yoga posture correction.  
+
 🎨 **Fun Fact:** State-level 2nd position in karate and certified yoga trainer—blending tech expertise with wellness! 💪
 
 ---
