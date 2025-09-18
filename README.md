@@ -1,15 +1,9 @@
 # 💫 About Me
-🔭 **Currently Working On:** Exploring machine learning concepts through projects, focusing on data preprocessing, topic modeling, and optimization methods.  
+MSc Data Science student passionate about building end-to-end machine learning solutions. Experienced in NLP, real-time AI applications, data preprocessing, and predictive modeling.  
 
-🤝 **Open to Collaborate On:** Beginner-friendly ML and data science projects, including data mining, web scraping, and statistical analysis.  
+💡 **Expertise & Interests:** Python, ML pipelines, computer vision, NLP, model deployment, and data-driven solutions.  
 
-❓ **Looking for Help With:** Advanced optimization techniques, gradient descent methods, and deploying machine learning models.  
-
-📚 **Currently Learning:** Deepening my understanding of ML algorithms, statistics, and real-world applications.  
-
-💡 **Ask Me About:** Data science, machine learning, data mining, or any of my personal projects.  
-
-🎨 **Fun Fact:** State-level 2nd position in karate and certified yoga trainer—balancing tech with wellness! 💪  
+🎨 **Fun Fact:** State-level 2nd position in karate and certified yoga trainer—blending analytical skills with wellness! 💪
 
 ---
 
